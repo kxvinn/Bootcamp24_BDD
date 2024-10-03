@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\bin\Debug\net6.0\BDD Test Project.deps.json
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\bin\Debug\net6.0\BDD Test Project.dll
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\bin\Debug\net6.0\BDD Test Project.pdb
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\BDD Test Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\BDD Test Project.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\BDD Test Project.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\BDD Test Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\BDD Test Project.dll
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\refint\BDD Test Project.dll
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\BDD Test Project.pdb
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\ref\BDD Test Project.dll
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\bin\Debug\net6.0\BDD Test Project.runtimeconfig.json
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\BDD Test Project.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BDD Test Project\BDD Test Project\obj\Debug\net6.0\BDD Test Project.genruntimeconfig.cache
